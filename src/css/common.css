@@ -20,7 +20,7 @@ img {
 .timer {
   display: flex;
   justify-content: space-between;
-  width: 240px;
+  width: 280px;
 }
 
 .field {
